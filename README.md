@@ -1,2 +1,3 @@
 # ripsoftware
-description of our team
+
+We provide simple software solutions.
